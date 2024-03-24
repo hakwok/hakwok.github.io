@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "About me - Hayden Kwok"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,9 @@ redirect_from:
 ---
 
 
+# About me
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
-
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
-
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+I am a third-year student at the University of California, San Diego, pursuing my Bachelor of Science in Computer Science. My research interests lie within the intersection of Artificial Intelligence with audio processing and musical transcription. I specialize in harnessing big data, recommender systems, and natural language processing to transform products and software with machine learning.
 
 # Selected Experience
 
