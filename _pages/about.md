@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me - Hayden Kwok"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-# About me
 
 I am a third-year student at the University of California, San Diego, pursuing my Bachelor of Science in Computer Science. My research interests lie within the intersection of Artificial Intelligence with audio processing and musical transcription. I specialize in harnessing big data, recommender systems, and natural language processing to transform products and software with machine learning.
 
