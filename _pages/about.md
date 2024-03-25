@@ -14,14 +14,16 @@ I am actively pursuing internship opportunities in Machine Learning and Software
 # Selected Experience
 
 ## Research
-Here is the project proposal writeup: [Image View Synthesis and Differentiable Rendering in Slang](https://sudo-boris.github.io/portfolio/RCPPO/)
+I am currently working as an **Undergraduate Researcher** as a part of the ERSP program at UCSD Computer Science and Engineering Department under the advisory of **Prof. Ravi Ramamoorthi** and **Prof. Tzu-Mao Li** at the Center for Visual Computing, leading a team in the development of **Slang**, a differentiable shading language, through efficiency and performance analysis, in collaboration with **Nvidia**. 
+
+Here is the project proposal writeup: [Image View Synthesis and Differentiable Rendering in Slang](../files/Li_Ramamoorthi_ERSP_2023_Proposal.pdf)
 
 ## Professional Experiencee
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
 
 To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+Feel free to look at my specific [portfolio entry](<embed src="../files/Resume.pdf" type="application/pdf" frameborder="0" scrolling="auto" height="100%" width="100%"></embed>).
 
 ## Projects & Initatives
 Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
