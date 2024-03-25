@@ -11,8 +11,8 @@ redirect_from:
 I am a third-year student at the University of California, San Diego, pursuing my Bachelor of Science in Computer Science. My research interests lie within the intersection of Artificial Intelligence with audio processing and musical transcription. I specialize in harnessing big data, recommender systems, and natural language processing to transform products and software with machine learning.
 
 I am actively pursuing internship opportunities in Machine Learning and Software Engineering, eager to showcase my skills and gain insights into industry-standard practices. Down the line, my goal is to transition into a Product Management role, aligning with my deep-seated interest in advancing data-driven technology and leveraging my innate abilities in external communication and leadership.
-# Selected Experience
 
+# Selected Experience
 ## Research
 I am currently working as an **Undergraduate Researcher** as a part of the ERSP program at UCSD Computer Science and Engineering Department under the advisory of **Prof. Ravi Ramamoorthi** and **Prof. Tzu-Mao Li** within the Center for Visual Computing. I lead a team of four in the development of **Slang**, a differentiable shading language, through efficiency and performance analysis, in collaboration with **Nvidia**. 
 
