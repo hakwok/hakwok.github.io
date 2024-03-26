@@ -16,7 +16,7 @@ I am actively pursuing internship opportunities in Machine Learning and Software
 ## Research
 I am currently working as an **Undergraduate Researcher** as a part of the ERSP program at UCSD Computer Science and Engineering Department under the advisory of **Prof. Ravi Ramamoorthi** and **Prof. Tzu-Mao Li** within the Center for Visual Computing. I lead a team of four in the development of **Slang**, a differentiable shading language, through efficiency and performance analysis, in collaboration with **Nvidia**. 
 
-Here is the project proposal writeup: [Image View Synthesis and Differentiable Rendering in Slang](../files/Li_Ramamoorthi_ERSP_2023_Proposal.pdf)
+Here is the project proposal: [Image View Synthesis and Differentiable Rendering in Slang](../files/Li_Ramamoorthi_ERSP_2023_Proposal.pdf)
 
 ## Professional Experience
 As a **Software Engineer Intern** at GymBuddy in the Fall of 2023, I led a dynamic SWE team in collaboration with the UC Berkeley UX Club to enhance existing web applications, strategically setting project goals and tasks to attract potential sponsors. Notably, I prototyped an Advertiser Dashboard web application using React.js, AWS Amplify, and Cognito for secure authentication, while also deploying the backend infrastructure with Google Firebase and Node.js to ensure a seamless user interface and facilitate data queries for advertising partners. 
