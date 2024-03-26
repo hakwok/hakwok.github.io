@@ -25,6 +25,12 @@ During my first year in college as a **Software Engineer** at the startup, Endev
 
 ## Projects & Initatives 
 
+Recently, I spearheaded a team in [**Predictive Modeling for Loan Repayment Optimization**](https://github.com/austintnguyen/CSE151A_Project), we developed machine learning models (DNN, SVM, Log Reg) to predict loan repayment behavior, achieving 94% accuracy on testing data. 
+
+In a more individual passion project, I crafted a **KNN Forecast Machine Learning TradingView [Indicator](https://www.tradingview.com/script/GqgkdNKV-Machine-Learning-kNN-Euclidean-Forecast-SMA-Indicator/) and [Algorithm](https://www.tradingview.com/script/Ae7HsWpm-kNN-ML-EMA-Ribbon-Trend-Forecast-Strategy/)**. Here, I created a K-Nearest Neighbors regression model to forecast future price points, yielding a remarkable 2461.42% return on $TSLA. Additionally, I enhanced a third-party script using Python, Skopt, and Selenium to refine parameter selection, contributing to open-source trading optimization.
+
+Throughout the past, I've consistently demonstrated a keen focus on driving innovation and growth within various ventures. As a Web Applications Administrator at Virtual Tutoring SF, I founded and spearheaded the development of the organization's Computer Science branch, overseeing the creation of web applications and implementing Chatbot APIs to streamline communication between our staff and tutee customers. Additionally, my role as Co-Founder of Blossom Supply involved managing the development of web applications and a mobile app, while leading cross-functional teams to conceive and execute innovative e-commerce platforms.
+
 ## Other Interests and Qualifications
 Currently, I'm on the path to obtaining my California Real Estate Salesperson license, driven by my commitment to thrive in our family business. Outside of real estate, I hold certification as a USATF Official and have a background as a sprinter in club-college athletics. Additionally, I've contributed to my high school alma mater as both a Defensive Backs and Linebackers coach. My interests extend to music, where I've earned an Associate of the Royal Schools of Music Piano Diploma and have actively collaborated with producers as an audio engineer.
 
