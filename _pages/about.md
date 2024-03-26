@@ -25,7 +25,7 @@ During my first year in college as a **Software Engineer** at the startup, Endev
 
 ## Projects & Initatives 
 
-Recently, I spearheaded a team in [**Predictive Modeling for Loan Repayment Optimization**](https://github.com/austintnguyen/CSE151A_Project){:target="_blank"}, we developed machine learning models (DNN, SVM, Log Reg) to predict loan repayment behavior, achieving 94% accuracy on testing data. 
+Recently, I spearheaded a team of CSE students in the development of machine learning models (DNN, SVM, Log Reg) to predict loan repayment behavior, [**Predictive Modeling for Loan Repayment Optimization**](https://github.com/austintnguyen/CSE151A_Project){:target="_blank"}, achieving 94% accuracy on testing data. 
 
 In a more individual passion project, I crafted a **KNN Forecast Machine Learning TradingView [Indicator](https://www.tradingview.com/script/GqgkdNKV-Machine-Learning-kNN-Euclidean-Forecast-SMA-Indicator/){:target="_blank"} and [Algorithm](https://www.tradingview.com/script/Ae7HsWpm-kNN-ML-EMA-Ribbon-Trend-Forecast-Strategy/){:target="_blank"}**. Here, I created a K-Nearest Neighbors regression model to forecast future price points, yielding a remarkable 2461.42% return on $TSLA. Additionally, I enhanced a third-party script using Python, Skopt, and Selenium to refine parameter selection, contributing to open-source trading optimization.
 
