@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year student at the University of California, San Diego, pursuing a Master of Science in Computer Science after completing my Bachelor of Science in Computer Science in June 2025. I specialize in driving user and results-oriented innovation by identifying complex challenges, constructing strategic roadmaps toward nuanced solutions, and leveraging my product expertise to strategize, analyze, market, and develop impactful products that shape the world. My research interests focus on employing adversarial/deceptive planning and strategic obfuscation within reinforcement learning agents.
+I am a 4th-year student at the University of California, San Diego, pursuing a Master of Science in Computer Science after having completed my Bachelor of Science in Computer Science in June 2025. I specialize in driving user and results-oriented innovation by identifying complex challenges, constructing strategic roadmaps toward nuanced solutions, and leveraging my product expertise to strategize, analyze, market, and develop impactful products that shape the world. My research interests focus on employing adversarial/deceptive planning and strategic obfuscation within reinforcement learning agents.
 
 I am actively pursuing New Grad opportunities in Product Management, Software Engineering, and AI/ML, and am eager to showcase my skills and gain insights into industry-standard practices. Ultimately, my goal is to transition into a Product Management role, aligning with my deep-seated interest in advancing data-driven technology and leveraging my innate abilities in external communication and leadership.
 
